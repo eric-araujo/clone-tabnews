@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Hello World 1201</h1>
+    return <h1>Eita! Um Deploy</h1>
 }
 
 export default Home;
