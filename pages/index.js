@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eita! Um Deploy</h1>
+    return <h1>Vamos dar uma flanelada amigos? &#127918;</h1>
 }
 
 export default Home;
